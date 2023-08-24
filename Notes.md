@@ -5,4 +5,21 @@
 - Data transmission between nodes is supported over data links consisting of physical cable media such as twisted pair of fiber optic cables or by wireless methods such as Wi-Fi microwave transmission or free-space optical communication.
 
   ### Why do we have computer networks?
-  Big reason to have a network as per this definition is to share resources. We want to share information or share some kind of resource with someone else.
+  Big reason to have a network as per this definition is to share resources. We want to share information or share some       kind of resource with someone else.
+
+  ### What is a resource ?
+ - In the old days. A common example of a resource would be a printer. If you had an office with 100 people in the office 
+  you could buy a printer for every workstation or for every PC And that's what they had to do before the days of 
+  networking.
+
+ - They either had to have a printer for every computer or have no printers or what they had to do is do , something like 
+  this where they copy a file onto a floppy disk and then go over to the printing station and then print it manually.
+
+ - It's not cost-effective to buy a printer for every workstation or for every person. It makes much more sense to have a 
+  centralized resource in this case a printing resource and share that resource amongst the people in the office.
+
+- So rather than having let's say 100 printers for 100 people you only let's say have 10 printers. So you've reduced the 
+ cost by creating a shared resource a resource that can be shared by what are called clients.
+  
+
+  
