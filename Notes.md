@@ -51,3 +51,28 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 - So the big idea here is I'm sharing a resource with you and I need a way to get that to you. You need a device that can receive the resource, we need some kind of transmission media which could be physical cables or it could be wireless.
 
 - So the idea is rather than having to physically transport a file on a USB drive or in the veryvery old days using a floppy disk we use a cable or some kind of mechanism to transmit data from one device to another or from one device to many devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
