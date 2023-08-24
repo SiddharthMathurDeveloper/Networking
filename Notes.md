@@ -66,7 +66,11 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 - Newer laptop and like a lot of newer laptops and Mac books it doesn't have any RJ45 Network ,it has NIC (Network Interface Cards)
 
 
-## Network Interface Cards (NIC)
+## Network Interface Cards (NIC) :
+
+- Now a Network Interface Card or NIC is how we connect to the physical network or wireless network.It's basically a card that's either inserted into a laptop or is built into a laptop that has what's called a MAC address or Media Access Control address on Ethernet which is the technology that we generally use today on wireless devices are known by what's called a MAC address.
+
+
 
 
 
