@@ -81,7 +81,7 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 <br/>
 
 - A MAC address, or media access control address, is a 12-digit hexadecimal number assigned to each device connected to the network.
-- They are physically attached t oa hardware device / burned into it
+- They are physically attached to the  hardware device / burned into it
   
 - It is primarily specified as a unique identifier during device manufacturing and is often found on a device's network interface card (NIC).
 
