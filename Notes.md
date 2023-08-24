@@ -77,8 +77,9 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 
 ## MAC
 
-![Screenshot 2023-08-24 at 2 29 47 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/8e9e02a8-c607-4a2b-abd1-dcf0b92d9730)![Uploading Screenshot 2023-08-24 at 2.30.45 PM.png…]() <br/>
-
+![Screenshot 2023-08-24 at 2 29 47 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/8e9e02a8-c607-4a2b-abd1-dcf0b92d9730) 
+![Screenshot 2023-08-24 at 2 32 54 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/f3f2702d-5785-4fd9-8ac0-f95dad2a0182)
+<br/>
 
 - A MAC address, or media access control address, is a 12-digit hexadecimal number assigned to each device connected to the network.
 - They are physically attached t oa hardware device / burned into it
