@@ -66,7 +66,7 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 - Newer laptop and like a lot of newer laptops and Mac books it doesn't have any RJ45 Network ,it has NIC (Network Interface Cards)
 
 
-### Network Interface Cards (NIC)
+## Network Interface Cards (NIC)
 
 
 
