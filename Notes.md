@@ -67,6 +67,8 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 
 
 ## Network Interface Cards (NIC) :
+![Screenshot 2023-08-24 at 2 07 59 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/073c2c82-63bb-4de6-9cbb-fefe5f5d164b) ![Screenshot 2023-08-24 at 2 08 17 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/ab5fb931-86dd-427d-b51e-3d5940640d48)
+<br/>
 
 - Now a Network Interface Card or NIC is how we connect to the physical network or wireless network.It's basically a card that's either inserted into a laptop or is built into a laptop that has what's called a MAC address or Media Access Control address on Ethernet which is the technology that we generally use today on wireless devices are known by what's called a MAC address.
 
