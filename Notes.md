@@ -35,3 +35,19 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 - Those are often the devices that most consumers will think about.
 
 - But in networking, we have specialized devices such as hubs, switches, routers and firewalls to name a few.
+
+### Summary 
+
+- Why do we have a computer network? 
+
+- We want to share resources which could be a printer, could be a file, could be a video.
+
+- So videos are very popular these days.
+
+- You watching s video through a computer network I'm sharing  information with you using a data link
+
+- In the Wikipedia definition. They talk about a data link being a physical cable such as twisted pair, fiber optic cables, Wi-Fi or some type of data link where I'm sharing information with you.
+
+- So the big idea here is I'm sharing a resource with you and I need a way to get that to you. You need a device that can receive the resource, we need some kind of transmission media which could be physical cables or it could be wireless.
+
+- So the idea is rather than having to physically transport a file on a USB drive or in the veryvery old days using a floppy disk we use a cable or some kind of mechanism to transmit data from one device to another or from one device to many devices.
