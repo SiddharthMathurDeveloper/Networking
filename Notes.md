@@ -78,7 +78,8 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 ## MAC
 
 ## WI-FI
-
+- Wi-Fi is an example of using the air for transmission of data from one device to the other makes life a lot easier
+in many ways. People today expect that it's easy to share information from one device to another.
 
 
 
