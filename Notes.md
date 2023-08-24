@@ -20,6 +20,13 @@
 
 - So rather than having let's say 100 printers for 100 people you only let's say have 10 printers. So you've reduced the 
  cost by creating a shared resource a resource that can be shared by what are called clients.
+
+- Now today we still use this kind of technology by using USB thumb drives. So if I wanted to share a resource with you like a photograph or a file I could copy it onto this USB drive and then give it to you and then you'd copy it to your computer.
+
+- So sneakernet the original type of networking if you like is where a human being would take a resource copy of file or a photograph into this USB drive. I'd walk to your computer and then give it to you and share the resource with you.
+But that's not very effective. It's not scalable doesn't work that well. You, let's be honest, most humans would be too lazy to have to walk around the office to share files.
+
+- It's much easier just to share files using a digital transmission mechanism or medium and they're different types of digital transmission mechanisms.
   
 
   
