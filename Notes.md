@@ -63,6 +63,7 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 ![Screenshot 2023-08-24 at 1 59 57 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/5f59c522-3ae9-470d-84d7-007b777d6c91)<br/>
   ***But in its most basic form a computer network will use something like a cable , copper Ethernet cable.This is what's   called UTP or Unshielded Twisted Pair copper cable.You've probably come across these types of connectors in the real world.     This is known as an RJ45 connector.***
 
+- Newer laptop and like a lot of newer laptops and Mac books it doesn't have any RJ45 Network ,it has NIC (Network Interface Cards)
 
 
 
