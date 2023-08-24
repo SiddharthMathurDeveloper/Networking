@@ -29,4 +29,9 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 ***It's much easier just to share files using a digital transmission mechanism or medium and they're different types of digital transmission mechanisms.***
   
 
-  
+  ### What is node ?
+  - And there are many types of computing devices. We could have Windows laptops. We could have Mac books.We could have         phones.We could have servers.
+
+- Those are often the devices that most consumers will think about.
+
+- But in networking, we have specialized devices such as hubs, switches, routers and firewalls to name a few.
