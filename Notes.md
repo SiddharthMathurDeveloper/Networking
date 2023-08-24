@@ -54,7 +54,7 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 
 
 
-## More About Network :
+## More About Networks :
 
 - But a network doesn't have to be very big. A small network would simply consist of two computing device.
 -  eg . So copy a file from this computer onto the drive and then put it into the second computer and then copy the file onto       this computer. So that's how I could share information from one computer to another without a network.
