@@ -77,9 +77,22 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 
 ## MAC
 
+![Screenshot 2023-08-24 at 2 29 47 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/8e9e02a8-c607-4a2b-abd1-dcf0b92d9730)![Uploading Screenshot 2023-08-24 at 2.30.45 PM.png…]() <br/>
+
+
+- A MAC address, or media access control address, is a 12-digit hexadecimal number assigned to each device connected to the network.
+- They are physically attached t oa hardware device / burned into it
+  
+- It is primarily specified as a unique identifier during device manufacturing and is often found on a device's network interface card (NIC).
+
+
+
+
 ## WiFi :
 - Wi-Fi is an example of using the air for transmission of data from one device to the other makes life a lot easier
 in many ways. People today expect that it's easy to share information from one device to another.
+
+- They are used as a network address in communications within a network segment and are common in most IEEE 802 networking technologies, including Ethernet, Wi-Fi, and Bluetooth
 
 ***Apple Airdrop creates it's own WiFi network that allows two devices to shares files without the need for any other
 Wifi networks.***
