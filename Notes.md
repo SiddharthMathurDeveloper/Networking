@@ -139,12 +139,9 @@ Wifi networks.***
 
 -  So clients access servers to make use of a service that the server is providing. A website will serve a web page to a client which is then displayed on your computer as an example.
 
+- Server / Computing device / one physical computer will be listening on different port numbers for different protocols.
 
-
-
-
-
-  ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
+ ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
 
 
 
