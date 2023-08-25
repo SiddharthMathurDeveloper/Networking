@@ -107,21 +107,48 @@ in many ways. People today expect that it's easy to share information from one d
 ***Apple Airdrop creates it's own WiFi network that allows two devices to shares files without the need for any other
 Wifi networks.***
 
+
+
+
 ## Server :
 
 - In computing a server is a computer program or a device that provides functionality for other programs or devices called clients.
   This architecture is called the client server model and a single overall computation is distributed across multiple processes or   
   devices.
+  
+- The whole idea of a server is to provide resources or functionality to clients. So this server is big because we want a lot of storage, we want a lot of computing power and a lot of memory in a server especially if we want to scale it up.
+
+- If you've got thousands and thousands of queries from many many clients to a server you wanted to have the capacity so memory, CPU, storage to handle those queries. So hence big device. It needs to have the capacity to service the requests.
+
+- So if only one or two people are requesting a web page from the server that's not a problem.But if we've got thousands and thousands of requests one server may not even be enough.
+
+  ***And then we have distributed services. So we have a service such as a web page that's distributed across multiple servers.***
+
+- Google as an example will have thousands upon thousands upon thousands of servers to service the requests from millions of clients. So they will have many many servers to service or provide a service to the clients. When you go to the Google Website and you type in a request that's querying databases and retrieving information from databases to give you a answer about some query that you've made.
+  
+
+- So the server is providing a service to a client.
+
+- You don't need dedicated hardware like this to have a server a client device such as a laptop can act as a server.
+  So the role will determine how that device is acting. A physical laptop such as this laptop could be a client requesting a service   from a server but it could also be hosting a service
+
+- So it may be running some kind of server and then sharing a file as an example with a another PC, so it's hosting a file sharing   service.
+
+-  So clients access servers to make use of a service that the server is providing. A website will serve a web page to a client which is then displayed on your computer as an example.
+
+
+
+
+
 
   ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
 
 
 
 
-
-
 ## Client :
 
+- A client is a piece of computer hardware or software that accesses a service made available by a server.The server is often on another computer system in which case the client accesses the service by way of a network /across a network
 
 
 
