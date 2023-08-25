@@ -4,3 +4,8 @@
 - Network Interface Cards (NIC)
 - MAC address or Media Access Control
 - Wifi
+- Server
+- Client
+- Client vs Server
+- Protocols
+- Ports
