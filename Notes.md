@@ -160,7 +160,7 @@ Wifi networks.***
 
 
 ## Protocols :
-- It's basically a set of rules used for communication between devices
+- In networking, a protocol is a set of rules for formatting and processing data. It's basically a set of rules used for communication between devices, 
 
 - As an example I'm speaking English here.Hopefully, you can hear what I'm saying and hopefully, you can understand what I'm saying because I'm using a set of conventions in my speech. So in English we speak a certain way. As an example some languages will use numbers differently to English. The protocol that we are speaking here is English so I will say 21 but in a different language like
 Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21.So the way that words are pronounced or the way that numbers are pronounced is reversed in a different language to English.
