@@ -72,6 +72,14 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 
 - Now a Network Interface Card or NIC is how we connect to the physical network or wireless network.It's basically a card that's either inserted into a laptop or is built into a laptop that has what's called a MAC address or Media Access Control address on Ethernet which is the technology that we generally use today or wireless devices are known by what's called a MAC address.
 
+- If you don't have a Network Interface Card in your laptop you could use USB to Ethernet adapter like this.
+![Screenshot 2023-08-25 at 9 19 32 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/b9d7b2bf-4573-48fd-95e3-4a21b265825b) Ethernet
+
+
+![Screenshot 2023-08-25 at 9 20 47 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/7aba5a41-8056-47dc-9928-1a0fc5095699) Wireless </br>
+So that would allow you to connect to the network using Ethernet or once again using wireless.
+
+
 
 
 
