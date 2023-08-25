@@ -107,9 +107,20 @@ in many ways. People today expect that it's easy to share information from one d
 ***Apple Airdrop creates it's own WiFi network that allows two devices to shares files without the need for any other
 Wifi networks.***
 
+## Server :
+
+- In computing a server is a computer program or a device that provides functionality for other programs or devices called clients.
+  This architecture is called the client server model and a single overall computation is distributed across multiple processes or   
+  devices.
+
+  ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
 
 
 
+
+
+
+## Client :
 
 
 
