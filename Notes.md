@@ -152,6 +152,9 @@ Wifi networks.***
 
 
 
+## Client - Server Model :
+- So a server can run multiple services and provide multiple services to clients this is called  client-server model client
+  requests something from a server the server provides the file or the service to the client.
 
 
 
