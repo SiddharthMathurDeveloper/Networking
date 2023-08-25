@@ -144,11 +144,53 @@ Wifi networks.***
  ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
 
 
-
-
 ## Client :
 
 - A client is a piece of computer hardware or software that accesses a service made available by a server.The server is often on another computer system in which case the client accesses the service by way of a network /across a network
+
+
+
+
+
+
+## Protocols :
+- It's basically a set of rules used for communication between devices
+
+- As an example I'm speaking English here.Hopefully, you can hear what I'm saying and hopefully, you can understand what I'm saying because I'm using a set of conventions in my speech. So in English we speak a certain way. As an example some languages will use numbers differently to English. The protocol that we are speaking here is English so I will say 21 but in a different language like
+Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21.So the way that words are pronounced or the way that numbers are pronounced is reversed in a different language to English.
+
+- The point is you and I are using a specific protocol we are listening to English as the transmission and you can understand what I'm saying. But if I switched my language or my protocol and started saying goeie more uhanet fan da, you might struggle to understand me unless you understand South African.
+
+***The point is is that a server doesn't just automatically switch like we do in our brains from one language to another.It has to listen on specific port numbers.***
+
+- Your ears are listening on the same frequencies for both English and Afrikaans then your brain just switches from one language to     another
+
+- A server is not as clever as that. It has to listen on specific port numbers for specific protocols.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
