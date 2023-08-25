@@ -153,7 +153,9 @@ Wifi networks.***
 
 
 ## Client - Server Model :
+![Screenshot 2023-08-25 at 10 12 53 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/84e59b05-2c63-4514-8569-73c8ff30e596)<br/>
 - So a server can run multiple services and provide multiple services to clients / client requests something from a server the server provides the file or the service to the client. this is called  client-server model 
+
 
 
 
