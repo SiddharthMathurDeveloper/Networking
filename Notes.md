@@ -141,6 +141,8 @@ Wifi networks.***
 
 - Server / Computing device / one physical computer will be listening on different port numbers for different protocols.
 
+- A computer server is listening on specific port numbers. If you want to get a web page your browser is automatically configured or programmed to talk to port 80(Http) or to port for 443(Https).
+
  ***So notice a server is providing a service or functionality to clients in what's called a client server model.***
 
 
