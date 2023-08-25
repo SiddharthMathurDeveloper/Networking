@@ -111,6 +111,8 @@ Wifi networks.***
 
 
 ## Server :
+![Screenshot 2023-08-25 at 9 50 19 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/1004576c-01e7-4972-b566-7cbcf7ad81b3)![Screenshot 2023-08-25 at 9 51 05 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/aa399318-9ce8-4e7d-9fab-4cb88fa1274d) <br/>
+
 
 - In computing a server is a computer program or a device that provides functionality for other programs or devices called clients.
   This architecture is called the client server model and a single overall computation is distributed across multiple processes or   
