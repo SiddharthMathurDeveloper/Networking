@@ -79,6 +79,8 @@ But that's not very effective. It's not scalable doesn't work that well. You, le
 ![Screenshot 2023-08-25 at 9 20 47 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/7aba5a41-8056-47dc-9928-1a0fc5095699) Wireless </br>
 So that would allow you to connect to the network using Ethernet or once again using wireless.
 
+***You essentially need a way to get a node onto the network and a Network Interface Card is the way that you connect yourself to the Ethernet network. Remember we are transmitting data from one device to another using some kind of media which could be the air could be physical cabling.***
+
 
 
 
