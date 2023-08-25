@@ -134,7 +134,8 @@ Wifi networks.***
 - You don't need dedicated hardware like this to have a server a client device such as a laptop can act as a server.
   So the role will determine how that device is acting. A physical laptop such as this laptop could be a client requesting a service   from a server but it could also be hosting a service
 
-- So it may be running some kind of server and then sharing a file as an example with a another PC, so it's hosting a file sharing   service.
+- So it may be running some kind of server and then sharing a file as an example with a another PC, so it's hosting a file sharing   service. <br/>
+![Screenshot 2023-08-25 at 9 53 15 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/8bdb6b04-906a-4b05-b294-77adff5f760c) <br/>
 
 -  So clients access servers to make use of a service that the server is providing. A website will serve a web page to a client which is then displayed on your computer as an example.
 
