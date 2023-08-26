@@ -372,9 +372,21 @@ connection to the Internet (Blue port).
 
 - Intrusion Prevention System sits in line with the traffic.The traffic is going through the IPS or intrusion prevention system.When there's   an attack it blocks it so the attacker can't get into your network.
 
+## Binary
 
+-  Binary is a fundamental building block in networks today.
 
+-  Consists of either 0 or 1 , Binary value = 0 or 1
 
+-  0 is Off and 1 is ON , OFF=0 ON=1
+
+-  You need to know binary to work with access lists or access control lists that allow you to permit or deny traffic based on an IP address.When you configure devices in your network with various IP addresses, you may want to permit one deviceto talk to another device, but   
+   then deny a third device from talking to that second device.
+
+- To do that, you permit or deny traffic based on a IP address, whether that's a source IP address or a destination IP address. You're going to match specific IP addresses based on a binary representation.
+  
+- So determining what a subnet mask is for a specific network, you need to understand binary.
+  
 
 
 
@@ -399,6 +411,8 @@ connection to the Internet (Blue port).
 
 
 - Repeater -> Hubs -> Bridge -> Switches
+
+- Routers and switches, have specific types of chips known as `ASICs` or `Application Specific Integrated Circuits`
 
 ***The most common WAN technology and LAN technology tonight today is Ethernet***
 
