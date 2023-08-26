@@ -225,10 +225,13 @@ a hub in the air. We are sharing the air***
 
 
 ## Switch :
+<br/>
+![Screenshot 2023-08-26 at 1 27 07 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/028a4202-2c92-413c-9c6b-7084fbf3bd41)
 
-
-
+<br/>
 - The number of ports on your switch varies.You can have very small switches you could have larger switches
+
+- It works at what's called Layer 2
   
 - You don't necessarily have lots of ports but in an enterprise environment you typically will you'll have a lot of ports on a switch
 
@@ -239,6 +242,12 @@ a hub in the air. We are sharing the air***
 - So if there was a device with a certain MAC address on a port and traffic was received on that port going to that MAC address it would only be sent out of that port rather than out of all ports a hub whereas multiple repeater is dumb when a, when traffic is received on one port it just simply amplifies it or floods it is the term out of all ports so everyone receives that frame here.
 
 - A switch has a MAC address table it has some intelligence and it learns where MAC addresses are in the network and then it will only forward the traffic out of the relevant ports. Based on the destination MAC address and a frame.
+
+- A switch has a MAC address table it has some intelligence and it learns where MAC addresses are in the network and then it will only forward the traffic out of the relevant ports. Based on the destination MAC address and a frame.
+
+- So if traffic comes in  port A it's going to you based on your mac address it's learned that you're connected to port A when traffic arrives in this port B going to your mac address it's only going tobe sent out of this port A whereas if it arrived on a hub it would send it out of all ports.
+
+  ***So a big difference between a switch and a hub is a switch has intelligence.***
 
 
 
