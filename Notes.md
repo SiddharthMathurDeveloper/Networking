@@ -207,8 +207,12 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 ***Wireless access point very modern wireless access point supports Wi-Fi 6 the Wi-Fi network or a wireless network is essentially
 a hub in the air. We are sharing the air***
 
+
+
 ## Hub :
 - Hub does is once again it simply repeats the signal without understanding what's going on.
+  
+- - It works at what's called Layer 1
   
 - So it doesn't understand the frames that it receives or the information that it receives. It simply amplifies it.
   
@@ -225,10 +229,9 @@ a hub in the air. We are sharing the air***
 
 
 ## Switch :
-<br/>
+
 ![Screenshot 2023-08-26 at 1 27 07 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/028a4202-2c92-413c-9c6b-7084fbf3bd41)
 
-<br/>
 - The number of ports on your switch varies.You can have very small switches you could have larger switches
 
 - It works at what's called Layer 2
@@ -247,7 +250,30 @@ a hub in the air. We are sharing the air***
 
 - So if traffic comes in  port A it's going to you based on your mac address it's learned that you're connected to port A when traffic arrives in this port B going to your mac address it's only going tobe sent out of this port A whereas if it arrived on a hub it would send it out of all ports.
 
+- One of the features of switches they allow us to connect many devices in our local area network. They are essentially useful   sending traffic within a local area network or LAN. We're not going to try and send it from one network to another which is WAN wide address Network.
+
+  
   ***So a big difference between a switch and a hub is a switch has intelligence.***
+
+
+## Bridge :
+- You can think of as an intermediate device between a switch and a hub
+
+- Bridges which basically did things in software they learned where the MAC addresses were of devices in the network and then someone rebranded their devices as switches because they could learn MAC addresses in hardware.
+
+
+**Bridge Learns MAC addresses in software ,Switch = Learns MAC addresses much more quickly by using hardware ASICs 
+(Application Specific Integrated Circuits).**
+
+
+## Application Specific Integrated Circuits (ASIC) :
+- Used by switches amd bridges
+
+
+
+
+
+
 
 
 
@@ -272,7 +298,7 @@ a hub in the air. We are sharing the air***
 - We are sharing the air now Wi-Fi 6 does try and implement some very clever stuff to allow multiple devices to talk at the same time. So it kind of approaches a switch but it's still acting as a hub.
 
 
-
+- Repeater -> Hubs -> Bridge -> Switches
 
 
 
