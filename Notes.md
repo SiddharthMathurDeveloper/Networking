@@ -198,8 +198,8 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
   ### Multiple Port Repeater
   - Repeater with lots of ports
 
+***There's no intelligence in the repeater.***
 
-***There's no intelligence in the hub**
 
 - Otherwise we get attenuation of signals and the signals degrade over a period of time which restricts the length of a cable.
   This allows me to increase the length of the cable.
@@ -219,7 +219,7 @@ a hub in the air. We are sharing the air***
 - So if traffic was received on port one on this hub it would simply amplify the signal out of all of those ports.
   So it repeats the signal out of every other port without understanding any of the details.
 
-***There's no intelligence in the repeater.***
+***There's no intelligence in the hub**
 
 
 
