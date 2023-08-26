@@ -351,6 +351,7 @@ connection to the Internet (Blue port).
 
 
 ## Lightweight access points :
+- Lightweight access points are devices that rely on an external wireless LAN controller (WLC) to work on the same network.
 
 
 
