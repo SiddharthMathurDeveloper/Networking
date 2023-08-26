@@ -310,6 +310,7 @@ connection to the Internet (Blue port).
 
 - Repeater -> Hubs -> Bridge -> Switches
 
+***The most common WAN technology and LAN technology tonight today is Ethernet***
 
 
 
