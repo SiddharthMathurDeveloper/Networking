@@ -180,11 +180,11 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 
 
 
-## Attenuation
+## Attenuation :
 - Refer to the reduction in the strength or intensity of a signal . The longer the distance less strong a signal.
 
 
-## Repeaters
+## Repeaters :
 - A repeater is an electronic device that revices a signal and retransmits it.
   
 - Repeater are used to extend transmissions so that that signal can cover longer distance or be received on the other side of an   obstuction
@@ -207,7 +207,7 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 ***Wireless access point very modern wireless access point supports Wi-Fi 6 the Wi-Fi network or a wireless network is essentially
 a hub in the air. We are sharing the air***
 
-## Hub
+## Hub :
 - Hub does is once again it simply repeats the signal without understanding what's going on.
   
 - So it doesn't understand the frames that it receives or the information that it receives. It simply amplifies it.
@@ -220,6 +220,27 @@ a hub in the air. We are sharing the air***
   So it repeats the signal out of every other port without understanding any of the details.
 
 ***There's no intelligence in the hub**
+
+
+
+
+## Switch :
+
+
+
+- The number of ports on your switch varies.You can have very small switches you could have larger switches
+  
+- You don't necessarily have lots of ports but in an enterprise environment you typically will you'll have a lot of ports on a switch
+
+- But the big difference between a switch and a hub is a switch has intelligence a switch actually reads what are called the frames received on Ethernet when you send data into Ethernet we're sending what's called a frame. So this device uses what's called a MAC address table.
+
+- They basically receive frames and they have the intelligence to only forward the frames out of the correct ports.
+
+- So if there was a device with a certain MAC address on a port and traffic was received on that port going to that MAC address it would only be sent out of that port rather than out of all ports a hub whereas multiple repeater is dumb when a, when traffic is received on one port it just simply amplifies it or floods it is the term out of all ports so everyone receives that frame here.
+
+- A switch has a MAC address table it has some intelligence and it learns where MAC addresses are in the network and then it will only forward the traffic out of the relevant ports. Based on the destination MAC address and a frame.
+
+
 
 
 
@@ -239,6 +260,7 @@ a hub in the air. We are sharing the air***
 <br/>
 
 
+- We are sharing the air now Wi-Fi 6 does try and implement some very clever stuff to allow multiple devices to talk at the same time. So it kind of approaches a switch but it's still acting as a hub.
 
 
 
