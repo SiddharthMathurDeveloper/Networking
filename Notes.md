@@ -292,17 +292,80 @@ connection to the Internet (Blue port).
 
 
 
-
-
-
-
-
-
-
-
 ## Asymmetric Digital Subscriber Line (ADSL) :
 - Is a communication technology that offers faster connection speeds over traditional telephone lines than dial-up internet   
   provides. It powers many internet connections worldwide and enabled the broadband internet speeds that drove Web 2.0 and beyond.
+
+
+
+
+
+## Firewall :
+<br/>
+![Screenshot 2023-08-26 at 6 03 16 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/6deb3d54-fef2-486e-8ce3-638891ae831d) [Hardware firewall] <br/>
+
+- Firewalls allow us to stop bad people getting into our network so we can restrict who can access our network.
+  
+- They use what are called firewall rules to permit or deny traffic.
+  
+- In some ways but I could specify what's called the outside interface and the inside interface.And I do not allow or this firewall does not   allow traffic from the outside interface to the inside interface unless you explicitly allow.
+  
+- It maybe hardware or software
+
+- You could connect your internet directly to the firewall if you have an Ethernet connection and then to the router and then to the switch where you're inside devices or, or your LAN is all you could connect to the router and then have the firewall behind the router so you either have the firewall in front of the router or behind the router
+  
+- In many cases you're going to have this behind the router because your ISP may manage the router, or you need a physical connection that's not Ethernet.These devices typically only support Ethernet, router will support other types of technologies such as ADSL or cable as an example.
+
+***Internet connects to the router it connects to the firewall which then connects to your switch in your internal network.***
+
+
+## Access point :
+
+
+## Wireless LAN controller :
+
+- This is used to manage access points.
+  
+- So the whole idea here is the wireless LAN controller will manage the access points rather than manually managing every one of the access points you manage them through the wireless LAN controller.
+
+- So the wireless LAN controller will manage let's say 100, 500 access points depends on the controller. Depends what it can support.
+
+
+
+
+## Autonomous access point:
+
+-  Don't need a wireless LAN controller to manage it.
+  
+- If you've only got one access point it makes sense to manage the access point directly
+  
+- But if you've got 100 of these or 500 of these it's going to be a lot of work to manually configure every one of those access points.
+
+- So rather than doing that you use what's called lightweight access points.
+
+
+
+## Lightweight access points :
+
+
+
+
+## Intrusion Detection System (IDS) :
+
+- An intrusion detection system simply detects that there's a problem and then alerts you that there's a problem and then you have to do something about it.
+
+- Intrusion Detection Systems typically sits out of band of network traffic so the traffic is going past them but they're not in the flow of 
+  traffic they're just getting copies of the traffic to see if there's a problem
+
+## Intrusion Prevention System (IPS) :
+
+- An intrusion prevention system can alert you that there's a problem but also block the attack so it can prevent the attack.
+ 
+- So if someone breaks into your network remotely let's say a hacker it can see that there's malicious activity on the network and then it   
+   can block that attacker. So prevent that attacker from gaining access to your network.
+
+- Intrusion Prevention System sits in line with the traffic.The traffic is going through the IPS or intrusion prevention system.When there's   an attack it blocks it so the attacker can't get into your network.
+
 
 
 
