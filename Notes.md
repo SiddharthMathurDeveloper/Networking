@@ -321,6 +321,11 @@ connection to the Internet (Blue port).
 
 ## Access point :
 
+- An access point is a device, such as a wireless router, that allows wireless devices to connect to a network.
+  
+- Most access points have built-in routers, while others must be connected to a router in order to provide network access. In either case, 
+  access points are typically hardwired to other devices, such as network switches or broadband modems.
+
 
 ## Wireless LAN controller :
 
