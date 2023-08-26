@@ -180,19 +180,63 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 
 
 
+## Attenuation
+- Refer to the reduction in the strength or intensity of a signal . The longer the distance less strong a signal.
+
+
+## Repeaters
+- A repeater is an electronic device that revices a signal and retransmits it.
+  
+- Repeater are used to extend transmissions so that that signal can cover longer distance or be received on the other side of an   obstuction
+  
+- Doesn't have many ports on it. We've only got two ports.
+  
+- They then developed what was called a multiple port repeater.
+
+- So a repeater here would amplify the signal amplified from one port to another.
+
+  ### Multiple Port Repeater
+  - Repeater with lots of ports
+
+
+***There's no intelligence in the hub**
+
+- Otherwise we get attenuation of signals and the signals degrade over a period of time which restricts the length of a cable.
+  This allows me to increase the length of the cable.
+
+***Wireless access point very modern wireless access point supports Wi-Fi 6 the Wi-Fi network or a wireless network is essentially
+a hub in the air. We are sharing the air***
+
+## Hub
+- Hub does is once again it simply repeats the signal without understanding what's going on.
+  
+- So it doesn't understand the frames that it receives or the information that it receives. It simply amplifies it.
+  
+- Hub is essentially a multi port repeater.
+
+- It's repeating the signal from one port to multiple other ports.
+
+- So if traffic was received on port one on this hub it would simply amplify the signal out of all of those ports.
+  So it repeats the signal out of every other port without understanding any of the details.
+
+***There's no intelligence in the repeater.***
 
 
 
 
 
+## Facts / History Lession
+
+- The original ```Ethernet``` was 10 base 5 using this really big yellow cable. So this cable was restricted and distance the signal would attenuate from one end of the cable to the other.
+
+![Screenshot 2023-08-26 at 9 21 31 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/d1ab3f63-584d-46c1-b0a9-7c79334e1c86)
 
 
+- And what they developed were ```Repeaters```.
 
+![Screenshot 2023-08-26 at 9 23 03 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/0f22b045-b412-45e8-90e7-4a83434cdc76) (Motorola Mototrbo DR3000 Digital Repeater (450 - 527 Mhz))
 
-
-
-
-
+<br/>
 
 
 
