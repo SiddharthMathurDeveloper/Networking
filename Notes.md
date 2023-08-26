@@ -269,7 +269,7 @@ a hub in the air. We are sharing the air***
 
 
 ## Application Specific Integrated Circuits (ASIC) :
-- Used by switches amd bridges
+- Used by switches and bridges
 
 
 ## Routers :
@@ -288,6 +288,16 @@ a hub in the air. We are sharing the air***
 connection to the Internet (Blue port).
 
 ***How do you connect to the Internet.Maybe you've got an ADSL connection. service provide gives you this connnetion ,bbut  if you fiber then WAN connection is Ethernet.***
+
+
+
+
+
+
+
+
+
+
 
 
 
