@@ -266,16 +266,26 @@ a hub in the air. We are sharing the air***
 (Application Specific Integrated Circuits).**
 
 
+
+
 ## Application Specific Integrated Circuits (ASIC) :
 - Used by switches amd bridges
 
 
+## Routers :
+![Screenshot 2023-08-26 at 1 48 09 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/36da8163-2989-4f08-9f2f-cafe96e7535f)
+<br/>
 
+- It allows us to route from one network to another.
 
+- Typically little routers like this allow us to go from our Ethernet LAN, local area network onto the Internet. So to what's   
+  called a WAN, wide area network.
+<br/>
+![Screenshot 2023-08-26 at 1 50 25 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/79bfbec3-709c-4828-8b01-f614cdc5f25f)
+<br/>
 
-
-
-
+- So Ethernet ports this is how we connect our devices to the router (Yellow) and wireless are that sticking out bars (Wifi)
+connection to the Internet (Blue port).
 
 
 
