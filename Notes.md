@@ -301,8 +301,8 @@ connection to the Internet (Blue port).
 
 
 ## Firewall :
-<br/>
-![Screenshot 2023-08-26 at 6 03 16 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/6deb3d54-fef2-486e-8ce3-638891ae831d) [Hardware firewall] <br/>
+
+![Screenshot 2023-08-26 at 11 55 41 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/3a095101-d62c-45b1-8cfa-cc3d64847b14)Hardware firewall] <br/>
 
 - Firewalls allow us to stop bad people getting into our network so we can restrict who can access our network.
   
