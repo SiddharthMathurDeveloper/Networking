@@ -287,6 +287,18 @@ a hub in the air. We are sharing the air***
 - So Ethernet ports this is how we connect our devices to the router (Yellow) and wireless are that sticking out bars (Wifi)
 connection to the Internet (Blue port).
 
+***How do you connect to the Internet.Maybe you've got an ADSL connection. service provide gives you this connnetion ,bbut  if you fiber then WAN connection is Ethernet.***
+
+
+
+## Asymmetric Digital Subscriber Line (ADSL) :
+- Is a communication technology that offers faster connection speeds over traditional telephone lines than dial-up internet   
+  provides. It powers many internet connections worldwide and enabled the broadband internet speeds that drove Web 2.0 and beyond.
+
+
+
+
+
 
 
 
