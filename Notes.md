@@ -212,7 +212,7 @@ a hub in the air. We are sharing the air***
 ## Hub :
 - Hub does is once again it simply repeats the signal without understanding what's going on.
   
-- - It works at what's called Layer 1
+- It works at what's called Layer 1
   
 - So it doesn't understand the frames that it receives or the information that it receives. It simply amplifies it.
   
@@ -287,7 +287,7 @@ a hub in the air. We are sharing the air***
 - So Ethernet ports this is how we connect our devices to the router (Yellow) and wireless are that sticking out bars (Wifi)
 connection to the Internet (Blue port).
 
-***How do you connect to the Internet.Maybe you've got an ADSL connection. service provide gives you this connnetion ,bbut  if you fiber then WAN connection is Ethernet.***
+***How do you connect to the Internet.Maybe you've got an ADSL connection. service provide gives you this connnetion ,but  if you fiber then WAN connection is Ethernet.***
 
 
 
