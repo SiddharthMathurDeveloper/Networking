@@ -181,6 +181,8 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 
 
 ## Attenuation :
+![Screenshot 2023-08-27 at 3 56 43 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/ba0d62aa-57bb-47ed-900d-307637895b74)
+<br/>
 - Refer to the reduction in the strength or intensity of a signal . The longer the distance less strong a signal.
 
 
