@@ -386,6 +386,8 @@ connection to the Internet (Blue port).
 - To do that, you permit or deny traffic based on a IP address, whether that's a source IP address or a destination IP address. You're going to match specific IP addresses based on a binary representation.
   
 - So determining what a subnet mask is for a specific network, you need to understand binary.
+
+- you will see Binary in IP address like (192.168.1.0) -> 11000000.10101000.00000001.00000000
   
 
 
