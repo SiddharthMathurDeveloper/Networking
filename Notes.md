@@ -210,6 +210,8 @@ a hub in the air. We are sharing the air***
 
 
 ## Hub :
+![Screenshot 2023-08-27 at 3 50 56 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/9f5cc341-1cbc-496b-918e-c3561a230f17)
+<br/>
 - Hub does is once again it simply repeats the signal without understanding what's going on.
   
 - It works at what's called Layer 1
