@@ -185,6 +185,8 @@ Afrikaans I'll say een-en-twintig which is basically saying one two to denote 21
 
 
 ## Repeaters :
+![Screenshot 2023-08-27 at 3 52 38 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/ead5a8bf-c542-46ac-b61f-01f95ca70861)
+<br/>
 - A repeater is an electronic device that revices a signal and retransmits it.
   
 - Repeater are used to extend transmissions so that that signal can cover longer distance or be received on the other side of an   obstuction
@@ -322,7 +324,8 @@ connection to the Internet (Blue port).
 
 
 ## Access point :
-
+![Screenshot 2023-08-27 at 3 54 32 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/c6e09dcd-cb3a-47ba-b82f-d06d9e1446fe)
+<br/>
 - An access point is a device, such as a wireless router, that allows wireless devices to connect to a network.
   
 - Most access points have built-in routers, while others must be connected to a router in order to provide network access. In either case, 
