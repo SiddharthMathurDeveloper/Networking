@@ -397,7 +397,11 @@ connection to the Internet (Blue port).
 - you will see Binary in IP address like (192.168.1.0) -> 11000000.10101000.00000001.00000000
   
 
+## Hexadecimal :
 
+- Used in networking all over the place
+- MAC address of a device it's written in hexadecimal.
+- IP version 6 addresses are also written in hexadecimal.
 
 
 
