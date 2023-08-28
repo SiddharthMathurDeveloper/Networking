@@ -97,6 +97,8 @@ So that would allow you to connect to the network using Ethernet or once again u
 ![Screenshot 2023-08-28 at 9 41 16 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/d1eb188c-9499-4955-bbf1-4bc095c1f449)
 
 - The first half of this address is the vendor code. Second half is a unique identifier for the MAC address
+  
+- 48 bits in length
 
 ## Address Resolution Protocol (ARP) : 
 - Arp entries are found arp is used to discover the MAC address of another device in ethernet devices have MAC addresses allocated to them by vendors
