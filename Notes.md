@@ -464,7 +464,7 @@ connection to the Internet (Blue port).
 
 
 <br/>
-![Screenshot 2023-08-28 at 10 15 03 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/c06cf2a7-13ea-4aa8-91d4-3d2f79a127c4)
+
 <br/>
 
 
