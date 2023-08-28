@@ -398,9 +398,12 @@ connection to the Internet (Blue port).
   
 
 ## Hexadecimal :
+![Screenshot 2023-08-28 at 9 25 37 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/b8e72291-c003-4b4f-ab24-6259c845777a)
 
 - Used in networking all over the place
+  
 - MAC address of a device it's written in hexadecimal.
+  
 - IP version 6 addresses are also written in hexadecimal.
 
 
