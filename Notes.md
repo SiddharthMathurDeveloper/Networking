@@ -457,9 +457,10 @@ connection to the Internet (Blue port).
 
 - Routers and switches, have specific types of chips known as `ASICs` or `Application Specific Integrated Circuits`
 - Three numbering Decimal , Binary , HexaDecimal
+  <br/>
 ![Screenshot 2023-08-28 at 10 06 39 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/9d5f218e-0693-42e8-b5b8-4a3f4f4670fc)
 ![Screenshot 2023-08-28 at 10 06 53 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/dcf0442d-34cd-49ee-a646-35e94b6238c7)
-
+<br/>
 ***The most common WAN technology and LAN technology tonight today is Ethernet***
 
 
