@@ -94,9 +94,14 @@ So that would allow you to connect to the network using Ethernet or once again u
 - They are physically attached to the  hardware device / burned into it
   
 - It is primarily specified as a unique identifier during device manufacturing and is often found on a device's network interface card (NIC).
+![Screenshot 2023-08-28 at 9 41 16 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/d1eb188c-9499-4955-bbf1-4bc095c1f449)
 
+- The first half of this address is the vendor code. Second half is a unique identifier for the MAC address
 
-
+## Address Resolution Protocol (ARP) : 
+- Arp entries are found arp is used to discover the MAC address of another device in ethernet devices have MAC addresses allocated to them by vendors
+- If I want to talk to your device I need to know what your MAC address is to be able to send the traffic onto the ethernet network.
+- So for example if the laptop pings the PC, it's basically going to send a broadcast into the network saying who has this IP address and then that PC will reply back.
 
 ## WiFi :
 - Wi-Fi is an example of using the air for transmission of data from one device to the other makes life a lot easier
@@ -379,7 +384,7 @@ connection to the Internet (Blue port).
 
 - Intrusion Prevention System sits in line with the traffic.The traffic is going through the IPS or intrusion prevention system.When there's   an attack it blocks it so the attacker can't get into your network.
 
-## Binary
+## Binary :
 
 -  Binary is a fundamental building block in networks today.
 
