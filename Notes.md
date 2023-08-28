@@ -410,9 +410,14 @@ connection to the Internet (Blue port).
 - MAC address of a device it's written in hexadecimal.
   
 - IP version 6 addresses are also written in hexadecimal.
+  
+- Base (16 -sixteen number) [0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F] 
 
+<br/>
+![Screenshot 2023-08-28 at 10 04 23 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/a52aaf38-6dc8-40a4-ae62-f7bf54868a7c)
 
-
+![Screenshot 2023-08-28 at 10 04 31 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/1c8d34ae-48e6-43f5-b258-a03f8024b645)
+<br/>
 
 ## Facts / History Lession
 
@@ -434,6 +439,7 @@ connection to the Internet (Blue port).
 - Repeater -> Hubs -> Bridge -> Switches
 
 - Routers and switches, have specific types of chips known as `ASICs` or `Application Specific Integrated Circuits`
+- Three numbering Decimal , Binary , HexaDecimal
 
 ***The most common WAN technology and LAN technology tonight today is Ethernet***
 
