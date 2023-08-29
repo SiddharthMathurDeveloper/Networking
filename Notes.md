@@ -422,6 +422,32 @@ connection to the Internet (Blue port).
 <br/>
 
 
+## Model :
+- Reason we have a model is we're taking a complex problem and we're breaking it up into smaller components or smaller pieces.
+  
+- Divide a problem into smaller parts and then we conquer smaller parts rather than trying to do everything in one go.
+  
+- Models are used in many places as an example if you're building a house you typically have a blueprint or a model of what the House is going to look like.
+
+- So before you even dig the foundations a model is created or a blueprint is created of what the House is going to look like.It makes a lot more sense to create a blueprint of a house and then have specific people work on specific parts of the building and do what they are good at.
+
+- So as an example a plumber will work on the plumbing an electrician will concentrate on the electricity a bricklayer will concentrate on laying the bricks. But they all work together to correct to the end result which is the house that you want built.
+
+- It's going to be much easier to have a blueprint or a model that everyone works towards to build something rather than them just arriving on site and then saying let's build this house but they don't actually know what the house looks like. You have an electrician working on the plumbing or a plumber working on bricklaying. That's not going to scale very well.
+
+- So we have a model of a network and then we have specific layers or specific components or subunits if you like that people specialize in and concentrate on that layer.
+
+- So manufacturer of fiber cables concentrates on building this to a specification. If you're a application developer you don't worry so much about the physical layer or how data is transmitted from let's say the US to Europe across the Atlantic using light under this ocean. You concentrate on building your application.
+
+
+
+
+
+
+
+
+
+
 
 
 
