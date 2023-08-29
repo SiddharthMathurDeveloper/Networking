@@ -1,4 +1,4 @@
-
+# Nothing in life is as simple as it seems sometimes there are gray areas
 ## Networks :
 - A computer network is a digital telecommunications network for sharing resources between nodes which are computing devices that use a common telecommunications technology.
 
