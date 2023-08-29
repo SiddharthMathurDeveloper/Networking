@@ -425,7 +425,8 @@ connection to the Internet (Blue port).
 
 
 
-
+## Open Systems Interconnection Model (OSI MODEL) :
+![Screenshot 2023-08-29 at 1 43 12 PM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/1694b324-439f-446c-9bf9-f318e9cee3ac)
 
 
 
