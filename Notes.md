@@ -463,6 +463,36 @@ connection to the Internet (Blue port).
 
 
 
+## IP Addressing (IPv4) :
+
+- An IP address is a layer three logical address assigned by an administrator. Unlike MAC addresses, which are hard coded or burnt into network interface cards by the manufacturer, an IP address is configured by an administrator.
+  
+- The IP address may change within a subnet. For example, when using DHCP or dynamic host configuration protocol, an IP address resides at a layer
+
+- Resides in layer of OSI Model
+
+- An IP address is used to uniquely identify a device on the network and is used by routers to determinewhere that device is. So a router routes traffic to a destination IP address based on a hierarchy of network and host.
+
+- Similar way to how houses are uniquely identified in a street. Houses in the street have a unique address. So, for example, ten Oxford Street, in the same way, a host in a network has a unique identifier on that network being its IP address.
+
+- Every device on the Internet has a unique IP address, so there are millions of IP addresses out there and no two devices can have the same IP address for communication on the Internet.
+
+- Move to IP version 6 these days because of IP version for address exhaustion.
+
+- In a lot of organizations today, private IP addresses are used internally and then those addresses are netted or network address translated onto the internet.
+
+- So be aware that in the real world multiple companies may use IP address 10.1 1.1. But those addresses are natted to unique IP addresses when those devices send traffic onto the Internet.
+   <br/>
+![Screenshot 2023-08-30 at 8 58 20 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/9266fbda-4693-44b4-9c6c-49315da51db7) [www.google.com translated to ip (142.250.194.4) by DNS] <br/>
+
+- DNS is used to convert easy to read names to IP addresses. It's much easier to remember a simple name such as Yahoo.com or Cisco or BBC.co.uk, rather than having to remember the IP address of those domain names.
+
+
+## Network Address Translation (NAT):
+
+## Domain Name Server (DNS) :
+
+## Ping :
 
 
 ## Facts / History Lession
