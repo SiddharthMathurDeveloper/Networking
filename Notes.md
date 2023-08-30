@@ -483,16 +483,75 @@ connection to the Internet (Blue port).
 
 - So be aware that in the real world multiple companies may use IP address 10.1 1.1. But those addresses are natted to unique IP addresses when those devices send traffic onto the Internet.
    <br/>
-![Screenshot 2023-08-30 at 8 58 20 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/9266fbda-4693-44b4-9c6c-49315da51db7) [www.google.com translated to ip (142.250.194.4) by DNS] <br/>
+![Screenshot 2023-08-30 at 8 58 20 AM](https://github.com/SiddharthMathurDeveloper/Networking/assets/133037456/9266fbda-4693-44b4-9c6c-49315da51db7) [www.google.com translated to ip (142.250.194.4) by DNS]
+<br/>
 
 - DNS is used to convert easy to read names to IP addresses. It's much easier to remember a simple name such as Yahoo.com or Cisco or BBC.co.uk, rather than having to remember the IP address of those domain names.
+
+- Connection less protocol. In other words, there are no sessions formed. When traffic is transmitted, the transmitter simply sends data without notification to the receiver. No status information is sent back from the receiver to the transmitter. It's totally connection.
+  
+- TCP IP or transmission control protocol, on the other hand is connection orientated.
+
+- 3 way HandShake happens
+
+- IP, on the other hand, doesn't do any of that.Each packet is treated independently of other packets. That's why traffic can take different paths to get to a destination.
+
+- Routers will route the traffic via different paths based on options such as load balancing.Because each packet is independent and IP is a connection less protocol routers can also base routing decisions on different values, such as bandwidth or hop count, but it is possible that packets from one session take divergent or different paths to get to a destination.
+
+- RIP will base its routing decisions on hop count, which is not good, and hence REP is not used that often anymore. OSPF will base it on bandwidth.Other routing protocols will use their own metrics to determine the best path.
+
+- They are based on hierarchical addressing structure in IP version four and IP version six, where we have both a network and host portion as part of the address.
+
+- IP also only gives best effort delivery of packets. There is no guarantee of packet delivery. Any packet could be misdirected, it could be duplicated, or it could be lost in transmission when sent to a destination.
+
+- There is also no data recovery features in IP.If the packet, for example, gets corrupted, the end devices need to handle that and not the routers in between.
+
+***So in summary, IP has no built in sessions, no data recovery, no transmissions.Higher layer protocols such as TCP IP will need to handle dropped packets, corrupted packets, misdirected packets and so forth.IP does not provide those features and relies on higher layer protocols to implement those features***
+
+ ## Format
+  - 32 bit address example 10.1 1.1.
+    
+  - Each of value such as ten is eight bits in size. So in other words, we have x x x x with each x being eight bits in length, also known       as an octet. The total size of the address is 32 bits.
+    
+  - IP addresses once again have a hierarchical structure to enable routing, which consists of two main parts. We have the network portion   
+    of an address and the host portion
+
+
+
+
 
 
 ## Network Address Translation (NAT):
 
+
+
 ## Domain Name Server (DNS) :
 
+
+## UDP
+
+
+
 ## Ping :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Facts / History Lession
