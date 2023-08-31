@@ -508,13 +508,29 @@ connection to the Internet (Blue port).
 
 ***So in summary, IP has no built in sessions, no data recovery, no transmissions.Higher layer protocols such as TCP IP will need to handle dropped packets, corrupted packets, misdirected packets and so forth.IP does not provide those features and relies on higher layer protocols to implement those features***
 
- ## Format
+ ### Format
   - 32 bit address example 10.1 1.1.
     
-  - Each of value such as ten is eight bits in size. So in other words, we have x x x x with each x being eight bits in length, also known       as an octet. The total size of the address is 32 bits.
+  - Each of value such as ten is eight bits in size. So in other words, we have x x x x with each x being eight bits in length, also      known as an octet. The total size of the address is 32 bits.
     
-  - IP addresses once again have a hierarchical structure to enable routing, which consists of two main parts. We have the network portion   
-    of an address and the host portion
+  - IP addresses once again have a hierarchical structure to enable routing, which consists of two main parts. We have the network   
+    portion of an address and the host portion
+
+
+   - Network Address Portion also known as the Network ID this identifies a specific network, routers maintain routingtables that    
+      contain Network Addresses it's important to realize that routers build their routing tables based on the NetworkAddress and not       on the host address, so they do not route packets from 1 interface to another interface based on IP Addressesthey do their             routing based on Network Addresses,
+
+   - So they will look at the destination IP Address in a packet and match that to a Network Address in their routing table to   
+       determine how traffic is routed.
+
+   - So an IP Address consist of the Network portion as well as the host portion which is also called the Host ID,
+     
+   - This identifies specific end point on a Network such as a server, a printer, a PC, an iPhone, an iPad or some other type of device including IP Phones
+
+   - 
+
+
+       
 
 
 
